@@ -191,6 +191,7 @@ p{
   grid-area: grid1-2;
   background-color: #CD8D8D;
   padding: 30px;
+  text-align: center;
 }
 
 #grid1-3{
